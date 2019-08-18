@@ -1,3 +1,6 @@
+.text-primary{
+color: red !important
+}
 .profile-content .nav{
     align-items: center;
     justify-content: center;
